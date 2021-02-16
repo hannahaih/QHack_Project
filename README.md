@@ -1,8 +1,10 @@
 
 ### Timeline
 
-|---|---|---|---|---|---| 
-| **Feb 19**: Earn $250 Power Up AWS credits from [QML Challenge](QML_Challenges.md) Leaderboard | **Feb 22**: Open Hackathon begins | **Feb 24**: Submit entry for $4000 Power Up AWS credits (by 12 PM EST) | **Feb 26**: Open Hackathon concludes (6PM EST) |
+- Feb 19 POWER-UP for QML Challenge (Challenges published Feb 16) - prize: 250$ AWS credits
+- Feb 24 POWER-UP for Open Hackathon Project - prize: $4000 AWS credits
+- Feb 26 GRAND PRIZE for Open Hackathon Project - prize: go to CERN 
+
 
 ---
 
@@ -27,7 +29,7 @@ The winning entry will be determined based on the following collective criteria:
 ### Power Ups - Feb 24 
 
 **$4000 in AWS credits are available for up to 20 teams on Feb 24**. 
-These credits can be used to finish off your hackathon project on AWS Braket. This Power Up is available independently of whether your team received any Power Ups from the QML Challenges.
+These credits can be used to finish off your hackathon project on AWS Braket. This Power Up is available **independently of whether your team received any Power Ups from the QML Challenges**.
 
 To submit an entry for this Power Up, your team must open a new Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=Power+Up&template=open-hackathon-power-up-entry.md&title=%5BPower+Up%5D+Your+Project+Title)* 
 which describes your (in-progress) hackathon project by **Feb 24 at 12PM EST**. 
@@ -52,7 +54,7 @@ Specifically, this issue should contain:
 
 ---
 
-### What hackathon project should my team do?
+### About the Open Hackathon Project
 
 The QHack Open Hackathon is open-ended. The choice of topic is completely up to you! 
 You could brainstorm a new idea with your team, or start from one of the following seed ideas:
@@ -64,3 +66,11 @@ You could brainstorm a new idea with your team, or start from one of the followi
 4. Repurpose one of the [PennyLane demos](https://pennylane.ai/qml/demonstrations.html) to run on a quantum hardware device 
 5. Submit a Pull Request to an open-source library with a new QML-related feature
 
+---
+
+## Timeline
+
+| Sun | Mon | Tue | Wed | Thu | Fri  | Sat |
+|---|---|---|---|---|---|---|
+|   |   |   |   |   | **Feb 19**: Earn $250 Power Up AWS credits from [QML Challenge](QML_Challenges.md) Leaderboard |   |
+|   | **Feb 22**: Open Hackathon begins |   | **Feb 24**: Submit entry for $4000 Power Up AWS credits (by 12 PM EST) |   | **Feb 26**: Open Hackathon concludes (6PM EST) |  |
