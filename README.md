@@ -17,7 +17,7 @@
 
 ---
 
-## Feb 19: Power-Up from QML Challenge Leaderboard
+## 💎 Feb 19: Power-Up from QML Challenge Leaderboard
 
 #### $250 AWS credits
 
@@ -27,7 +27,7 @@ A max of 20 teams will have their projects judged for the Open Hackathon Grand P
 
 ---
 
-## Feb 24: Power-Up from Open Hackathon Project Summary
+## 💎 Feb 24: Power-Up from Open Hackathon Project Summary
 
 #### $4000 AWS credits
 
@@ -47,7 +47,7 @@ Specifically, this issue should contain:
 
 ---
 
-## Feb 26: Grand Prize
+## 💎 Feb 26: Grand Prize
 
 To submit your team's entry for the Grand Prize, simply open an Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=submission&template=open-hackathon-final-submission.md&title=%5BENTRY%5D+Your+Project+Title)* summarizing your project.
 Specifically, this issue should contain:
