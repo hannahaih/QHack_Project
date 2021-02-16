@@ -1,41 +1,5 @@
 
-
-## QHack Open Hackathon
-
-Open-ended hackathon
-
---- 
-### Grand Prize
-
-**The top team will receive summer internships at [CERN](https://home.cern/) (up to 3 positions available)**. 
-
-The winning entry will be determined based on the following collective criteria:
-
-*Open Hackathon project*:
-- Scientific and/or technical ability demonstrated.
-- Overall quality of presentation.
-- Depth of use of the quantum computing software and hardware stack.
-
-*QML Challenge Leaderboard*:
-- A max of 20 teams will have their projects judged for the Open Hackathon Grand Prize, based on the their position in the 
-[QML Challenge Leaderboard](QML_Challenges.md) rankings. 
-
-
----
-
-### Power Ups
-
-**$4000 in AWS credits are available for up to 20 teams on Feb 24**. These credits can be used to finish off your hackathon project on AWS Braket. This Power Up is available independently of whether your team received any Power Ups from the QML Challenges.
-
-To submit an entry for this Power Up, your team must open a new Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=Power+Up&template=open-hackathon-power-up-entry.md&title=%5BPower+Up%5D+Your+Project+Title)* 
-which describes your (in-progress) hackathon project by **Feb 24 at 12PM EST**. Specifically, this issue should contain:
-
-1. The name of your team (matching the name used on the [QML Challenge](QML_Challenges.md) Scoreboard).
-2. A brief description of your Open Hackathon project (1-2 paragraphs).
-3. A hyperlink to draft source code for your Open Hackathon project.
-4. A 1-2 paragraph written **Resource Estimate**, indicating how you expect to use the additional AWS credits, if awarded, to finish your Open Hackathon project.
-
-### Timeline
+## Timeline
 
 | Sun | Mon | Tue | Wed | Thu | Fri  | Sat |
 |---|---|---|---|---|---|---|
@@ -44,7 +8,41 @@ which describes your (in-progress) hackathon project by **Feb 24 at 12PM EST**. 
 
 ---
 
-### How do I take part?
+## QML Challenge Feb 16 - Feb 19
+Earn $250 Power Up AWS credits from [QML Challenge](QML_Challenges.md) Leaderboard
+
+*QML Challenge Leaderboard*:
+- A max of 20 teams will have their projects judged for the Open Hackathon Grand Prize, based on the their position in the 
+[QML Challenge Leaderboard](QML_Challenges.md) rankings. 
+
+
+---
+## QHack Open Hackathon
+
+**The top team will receive summer internships at [CERN](https://home.cern/) (up to 3 positions available)**. 
+
+The winning entry will be determined based on the following collective criteria:
+- Scientific and/or technical ability demonstrated.
+- Overall quality of presentation.
+- Depth of use of the quantum computing software and hardware stack.
+
+### Power Ups - Feb 24 
+
+**$4000 in AWS credits are available for up to 20 teams on Feb 24**. 
+These credits can be used to finish off your hackathon project on AWS Braket. This Power Up is available independently of whether your team received any Power Ups from the QML Challenges.
+
+To submit an entry for this Power Up, your team must open a new Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=Power+Up&template=open-hackathon-power-up-entry.md&title=%5BPower+Up%5D+Your+Project+Title)* 
+which describes your (in-progress) hackathon project by **Feb 24 at 12PM EST**. 
+
+Specifically, this issue should contain:
+
+1. The name of your team (matching the name used on the [QML Challenge](QML_Challenges.md) Scoreboard).
+2. A brief description of your Open Hackathon project (1-2 paragraphs).
+3. A hyperlink to draft source code for your Open Hackathon project.
+4. A 1-2 paragraph written **Resource Estimate**, indicating how you expect to use the additional AWS credits, if awarded, to finish your Open Hackathon project.
+
+
+### Grand Prize - Feb 26
 
 To submit your team's entry for the Grand Prize, simply open an Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=submission&template=open-hackathon-final-submission.md&title=%5BENTRY%5D+Your+Project+Title)* summarizing your project.
 Specifically, this issue should contain:
