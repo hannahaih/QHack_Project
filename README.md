@@ -1,10 +1,15 @@
 
-# Timeline
+# Overview
 
 - **Feb 19** POWER-UP from QML Challenge (Challenges published Feb 16) - prize: 250$ AWS credits
+    [1_PowerUp_QMLCallenge](https://github.com/hannahaih/QHack_Project/tree/main/1_PowerUp_QMLCallenge)
+  
 - **Feb 24** POWER-UP from Open Hackathon Project - prize: $4000 AWS credits
-- **Feb 26** GRAND PRIZE for Open Hackathon Project - prize: go to CERN 
+    [2_PowerUp_OpenHackathonProject](https://github.com/hannahaih/QHack_Project/tree/main/2_PowerUp_OpenHackathonProject)
 
+
+- **Feb 26** GRAND PRIZE for Open Hackathon Project - prize: go to CERN 
+    [3_GrandPrix_OpenHackathonProject](https://github.com/hannahaih/QHack_Project/tree/main/3_GrandPrix_OpenHackathonProject)
 
 ---
 
@@ -61,7 +66,7 @@ You could brainstorm a new idea with your team, or start from one of the followi
 5. Submit a Pull Request to an open-source library with a new QML-related feature
 
 ---
-
+#### Timeline
 
 | Sun | Mon | Tue | Wed | Thu | Fri  | Sat |
 |---|---|---|---|---|---|---|
