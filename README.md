@@ -52,9 +52,9 @@ Specifically, this issue should contain:
 To submit your team's entry for the Grand Prize, simply open an Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=submission&template=open-hackathon-final-submission.md&title=%5BENTRY%5D+Your+Project+Title)* summarizing your project.
 Specifically, this issue should contain:
 
-   1. The name of your team (matching the name used on the [QML Challenge](QML_Challenges.md) Scoreboard).
+   1. The name of your team (matching the name used on the QML Challenge Scoreboard).
    2. A brief description of your project (1-2 paragraphs).
-   3. A hyperlink to an explanatory presentation of your team’s hackathon project in a non-technical form (e.g., video, blog post, jupyter notebook, website, slideshow, etc.).
+   3. A hyperlink to an explanatory presentation in a non-technical form (e.g., video, blog post, jupyter notebook, website, slideshow, etc.).
    4. A hyperlink to the final source code for your team's hackathon project (e.g., a GitHub repo).
 
 ---
