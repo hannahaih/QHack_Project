@@ -45,7 +45,7 @@ Specifically, this issue should contain:
 4. A 1-2 paragraph written **Resource Estimate**, indicating how you expect to use the additional AWS credits, if awarded, to finish your Open Hackathon project.
 
 
-# Feb 26: Grand Prize
+## Feb 26: Grand Prize
 
 To submit your team's entry for the Grand Prize, simply open an Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=submission&template=open-hackathon-final-submission.md&title=%5BENTRY%5D+Your+Project+Title)* summarizing your project.
 Specifically, this issue should contain:
