@@ -6,7 +6,7 @@
      [1_PowerUp_QMLCallenge](https://github.com/hannahaih/QHack_Project/tree/main/1_PowerUp_QMLCallenge)
      
   
-- **Feb 24** POWER-UP from Open Hackathon Project - prize: $4000 AWS credits
+- **Feb 24** POWER-UP from Open Hackathon Project Summary - prize: $4000 AWS credits
 
      [2_PowerUp_OpenHackathonProject](https://github.com/hannahaih/QHack_Project/tree/main/2_PowerUp_OpenHackathonProject)
 
@@ -17,9 +17,9 @@
 
 ---
 
-## Feb 19: QML Challenge Power-Up
+## Feb 19: Power-Up from QML Challenge Leaderboard
 
-#### $250 AWS credits from QML Challenge Leaderboard
+#### $250 AWS credits
 
 *QML Challenge Leaderboard*:
 A max of 20 teams will have their projects judged for the Open Hackathon Grand Prize, based on the their position in the 
@@ -27,9 +27,9 @@ A max of 20 teams will have their projects judged for the Open Hackathon Grand P
 
 ---
 
-## Feb 24: Open Hackathon Project Power-Up
+## Feb 24: Power-Up from Open Hackathon Project Summary
 
-#### $4000 AWS credits from Open Hackathon Project
+#### $4000 AWS credits
 
 These credits can be used to finish off your hackathon project on AWS Braket. 
 This Power Up is available **independently of whether your team received any Power Ups from the QML Challenges**.
@@ -40,10 +40,10 @@ which describes your (in-progress) hackathon project by **Feb 24 at 12PM EST**.
 
 Specifically, this issue should contain:
 
-1. The name of your team (matching the name used on the [QML Challenge](QML_Challenges.md) Scoreboard).
-2. A brief description of your Open Hackathon project (1-2 paragraphs).
-3. A hyperlink to draft source code for your Open Hackathon project.
-4. A 1-2 paragraph written **Resource Estimate**, indicating how you expect to use the additional AWS credits, if awarded, to finish your Open Hackathon project.
+     1. The name of your team (matching the name used on the QML Challenge Scoreboard).
+     2. A brief description of your Open Hackathon project (1-2 paragraphs).
+     3. A hyperlink to draft source code for your Open Hackathon project.
+     4. A 1-2 paragraph written **Resource Estimate**, indicating how you expect to use the additional AWS credits, if awarded, to finish your Open Hackathon project.
 
 ---
 
@@ -52,10 +52,10 @@ Specifically, this issue should contain:
 To submit your team's entry for the Grand Prize, simply open an Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=submission&template=open-hackathon-final-submission.md&title=%5BENTRY%5D+Your+Project+Title)* summarizing your project.
 Specifically, this issue should contain:
 
-1. The name of your team (matching the name used on the [QML Challenge](QML_Challenges.md) Scoreboard).
-2. A brief description of your project (1-2 paragraphs).
-3. A hyperlink to an explanatory presentation of your team’s hackathon project in a non-technical form (e.g., video, blog post, jupyter notebook, website, slideshow, etc.).
-4. A hyperlink to the final source code for your team's hackathon project (e.g., a GitHub repo).
+     1. The name of your team (matching the name used on the [QML Challenge](QML_Challenges.md) Scoreboard).
+     2. A brief description of your project (1-2 paragraphs).
+     3. A hyperlink to an explanatory presentation of your team’s hackathon project in a non-technical form (e.g., video, blog post, jupyter notebook, website, slideshow, etc.).
+     4. A hyperlink to the final source code for your team's hackathon project (e.g., a GitHub repo).
 
 ---
 
