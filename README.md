@@ -3,14 +3,17 @@
 
 - **Feb 19** POWER-UP from QML Challenge (Challenges published Feb 16) - prize: 250$ AWS credits
 
-    [1_PowerUp_QMLCallenge](https://github.com/hannahaih/QHack_Project/tree/main/1_PowerUp_QMLCallenge)
+     [1_PowerUp_QMLCallenge](https://github.com/hannahaih/QHack_Project/tree/main/1_PowerUp_QMLCallenge)
+     
   
 - **Feb 24** POWER-UP from Open Hackathon Project - prize: $4000 AWS credits
-    [2_PowerUp_OpenHackathonProject](https://github.com/hannahaih/QHack_Project/tree/main/2_PowerUp_OpenHackathonProject)
+
+     [2_PowerUp_OpenHackathonProject](https://github.com/hannahaih/QHack_Project/tree/main/2_PowerUp_OpenHackathonProject)
 
 
 - **Feb 26** GRAND PRIZE for Open Hackathon Project - prize: go to CERN 
-    [3_GrandPrix_OpenHackathonProject](https://github.com/hannahaih/QHack_Project/tree/main/3_GrandPrix_OpenHackathonProject)
+
+     [3_GrandPrix_OpenHackathonProject](https://github.com/hannahaih/QHack_Project/tree/main/3_GrandPrix_OpenHackathonProject)
 
 ---
 
