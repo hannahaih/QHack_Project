@@ -76,5 +76,5 @@ You could brainstorm a new idea with your team, or start from one of the followi
 
 | Sun | Mon | Tue | Wed | Thu | Fri  | Sat |
 |---|---|---|---|---|---|---|
-|   |   |   |   |   | **Feb 19**: Earn $250 Power Up AWS credits from [QML Challenge](QML_Challenges.md) Leaderboard |   |
+|   |   |   |   |   | **Feb 19**: Earn $250 Power Up AWS credits from QML Challenge Leaderboard |   |
 |   | **Feb 22**: Open Hackathon begins |   | **Feb 24**: Submit entry for $4000 Power Up AWS credits (by 12 PM EST) |   | **Feb 26**: Open Hackathon concludes (6PM EST) |  |
