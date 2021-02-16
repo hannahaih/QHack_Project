@@ -47,7 +47,7 @@ Specifically, this issue should contain:
 
 ---
 
-## 💎 Feb 26: Grand Prize
+## 🏆 Feb 26: Grand Prize
 
 To submit your team's entry for the Grand Prize, simply open an Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=submission&template=open-hackathon-final-submission.md&title=%5BENTRY%5D+Your+Project+Title)* summarizing your project.
 Specifically, this issue should contain:
