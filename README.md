@@ -1,8 +1,8 @@
-![image](img/qhack-banner.png)
+
 
 ## QHack Open Hackathon
 
-Show the world what you've got in this open-ended hackathon!
+Open-ended hackathon
 
 --- 
 ### Grand Prize
@@ -20,9 +20,6 @@ The winning entry will be determined based on the following collective criteria:
 - A max of 20 teams will have their projects judged for the Open Hackathon Grand Prize, based on the their position in the 
 [QML Challenge Leaderboard](QML_Challenges.md) rankings. 
 
-Some eligibility conditions apply. Please see [here](https://home.cern/summer-student-programme) and 
-[here](https://jobs.smartrecruiters.com/CERN/743999725457995-cern-online-summer-student-programme-2021-member-and-non-member-states-) 
-for a description of the CERN internship program.
 
 ---
 
@@ -31,7 +28,7 @@ for a description of the CERN internship program.
 **$4000 in AWS credits are available for up to 20 teams on Feb 24**. These credits can be used to finish off your hackathon project on AWS Braket. This Power Up is available independently of whether your team received any Power Ups from the QML Challenges.
 
 To submit an entry for this Power Up, your team must open a new Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=Power+Up&template=open-hackathon-power-up-entry.md&title=%5BPower+Up%5D+Your+Project+Title)* 
-which describes your (in-progress) hackathon project by Feb 24 at 12PM EST. Specifically, this issue should contain:
+which describes your (in-progress) hackathon project by **Feb 24 at 12PM EST**. Specifically, this issue should contain:
 
 1. The name of your team (matching the name used on the [QML Challenge](QML_Challenges.md) Scoreboard).
 2. A brief description of your Open Hackathon project (1-2 paragraphs).
@@ -71,4 +68,3 @@ You could brainstorm a new idea with your team, or start from one of the followi
 4. Repurpose one of the [PennyLane demos](https://pennylane.ai/qml/demonstrations.html) to run on a quantum hardware device 
 5. Submit a Pull Request to an open-source library with a new QML-related feature
 
-All entries are subject to the QHack [Terms & Conditions](https://qhack.ai/terms_and_conditions_2021.html).
