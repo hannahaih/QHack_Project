@@ -32,11 +32,11 @@ A max of 20 teams will have their projects judged for the Open Hackathon Grand P
 #### $4000 AWS credits
 
 These credits can be used to finish off your hackathon project on AWS Braket. 
-This Power Up is available **independently of whether your team received any Power Ups from the QML Challenges**.
+This Power Up is available *independently of whether your team received any Power Ups from the QML Challenges*.
 
 **To submit an entry for this Power Up:**
 Your team must open a new Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=Power+Up&template=open-hackathon-power-up-entry.md&title=%5BPower+Up%5D+Your+Project+Title)* 
-which describes your (in-progress) hackathon project by **Feb 24 at 12PM EST**. 
+which describes your (in-progress) hackathon project by Feb 24 at 12PM EST. 
 
 Specifically, this issue should contain:
 
