@@ -1,29 +1,31 @@
 
-## Timeline
+# Timeline
 
-- **Feb 19** POWER-UP for QML Challenge (Challenges published Feb 16) - prize: 250$ AWS credits
-- **Feb 24** POWER-UP for Open Hackathon Project - prize: $4000 AWS credits
+- **Feb 19** POWER-UP from QML Challenge (Challenges published Feb 16) - prize: 250$ AWS credits
+- **Feb 24** POWER-UP from Open Hackathon Project - prize: $4000 AWS credits
 - **Feb 26** GRAND PRIZE for Open Hackathon Project - prize: go to CERN 
 
 
 ---
 
-### Feb 19: QML Challenge Power-Up
+## Feb 19: QML Challenge Power-Up
 
-Earn $250 Power Up AWS credits from [QML Challenge](QML_Challenges.md) Leaderboard
+**$250 AWS credits from [QML Challenge](QML_Challenges.md) Leaderboard**
 
 *QML Challenge Leaderboard*:
-- A max of 20 teams will have their projects judged for the Open Hackathon Grand Prize, based on the their position in the 
+A max of 20 teams will have their projects judged for the Open Hackathon Grand Prize, based on the their position in the 
 [QML Challenge Leaderboard](QML_Challenges.md) rankings. 
 
 
 
-### Feb 24: Open Hackathon Project Power-Up
+## Feb 24: Open Hackathon Project Power-Up
 
-**$4000 in AWS credits are available for up to 20 teams on Feb 24**. 
-These credits can be used to finish off your hackathon project on AWS Braket. This Power Up is available **independently of whether your team received any Power Ups from the QML Challenges**.
+**$4000 AWS credits from Open Hackathon Project**. 
+These credits can be used to finish off your hackathon project on AWS Braket. 
+This Power Up is available **independently of whether your team received any Power Ups from the QML Challenges**.
 
-To submit an entry for this Power Up, your team must open a new Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=Power+Up&template=open-hackathon-power-up-entry.md&title=%5BPower+Up%5D+Your+Project+Title)* 
+**To submit an entry for this Power Up:**
+Your team must open a new Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=Power+Up&template=open-hackathon-power-up-entry.md&title=%5BPower+Up%5D+Your+Project+Title)* 
 which describes your (in-progress) hackathon project by **Feb 24 at 12PM EST**. 
 
 Specifically, this issue should contain:
@@ -34,7 +36,7 @@ Specifically, this issue should contain:
 4. A 1-2 paragraph written **Resource Estimate**, indicating how you expect to use the additional AWS credits, if awarded, to finish your Open Hackathon project.
 
 
-### Feb 26: Grand Prize
+# Feb 26: Grand Prize
 
 To submit your team's entry for the Grand Prize, simply open an Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=submission&template=open-hackathon-final-submission.md&title=%5BENTRY%5D+Your+Project+Title)* summarizing your project.
 Specifically, this issue should contain:
@@ -46,7 +48,7 @@ Specifically, this issue should contain:
 
 ---
 
-### About the Open Hackathon Project
+#### About the Open Hackathon Project
 
 The QHack Open Hackathon is open-ended. The choice of topic is completely up to you! 
 You could brainstorm a new idea with your team, or start from one of the following seed ideas:
