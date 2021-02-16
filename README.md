@@ -19,17 +19,18 @@
 
 ## Feb 19: QML Challenge Power-Up
 
-**$250 AWS credits from [QML Challenge](QML_Challenges.md) Leaderboard**
+#### $250 AWS credits from QML Challenge Leaderboard
 
 *QML Challenge Leaderboard*:
 A max of 20 teams will have their projects judged for the Open Hackathon Grand Prize, based on the their position in the 
 [QML Challenge Leaderboard](QML_Challenges.md) rankings. 
 
-
+---
 
 ## Feb 24: Open Hackathon Project Power-Up
 
-**$4000 AWS credits from Open Hackathon Project**. 
+#### $4000 AWS credits from Open Hackathon Project
+
 These credits can be used to finish off your hackathon project on AWS Braket. 
 This Power Up is available **independently of whether your team received any Power Ups from the QML Challenges**.
 
@@ -44,6 +45,7 @@ Specifically, this issue should contain:
 3. A hyperlink to draft source code for your Open Hackathon project.
 4. A 1-2 paragraph written **Resource Estimate**, indicating how you expect to use the additional AWS credits, if awarded, to finish your Open Hackathon project.
 
+---
 
 ## Feb 26: Grand Prize
 
@@ -70,6 +72,7 @@ You could brainstorm a new idea with your team, or start from one of the followi
 5. Submit a Pull Request to an open-source library with a new QML-related feature
 
 ---
+
 #### Timeline
 
 | Sun | Mon | Tue | Wed | Thu | Fri  | Sat |
